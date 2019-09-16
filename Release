@@ -1,0 +1,8 @@
+Origin: arab-crack-plus-cydia
+Label: arab-crack-plus-cydia
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: arab-crack-plus-cydia - a cydia repo template
